@@ -1,5 +1,4 @@
 
-
   def hello(array)
   i = 0
   collection = []
@@ -10,6 +9,5 @@
   end
   collection
 end
-  collection
-end
+
 
