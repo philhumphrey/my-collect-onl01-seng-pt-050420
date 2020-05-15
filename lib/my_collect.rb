@@ -4,7 +4,6 @@
     collection = []
     collection << yield([i])
   while i < array.length
-  
     i += 1
   collection
 end
